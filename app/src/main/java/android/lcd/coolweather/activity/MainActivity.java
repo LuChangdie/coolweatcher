@@ -1,5 +1,6 @@
-package android.lcd.coolweather;
+package android.lcd.coolweather.activity;
 
+import android.lcd.coolweather.R;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
